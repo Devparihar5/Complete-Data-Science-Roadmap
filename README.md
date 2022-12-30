@@ -211,6 +211,9 @@ To work on image and video analytics we can master computer vision. To work on c
 - Detecting corners
 - Detecting SIFT feature points
 
+<a href="https://towardsdatascience.com/a-complete-neural-network-algorithm-from-scratch-in-python-fdf985f258dd">A Complete Neural Network Algorithm with Example</a>
+
+
 
 # 8 | Data Visualization with Tableau
 
@@ -243,6 +246,9 @@ How to use it Visual Perception
 - MySQL
 - Complex Questions
 - Solving Interview Questions
+
+<a href="https://github.com/Devparihar5/Complete-Data-Science-Roadmap/tree/main/Database">Notes & Books for SQL and Database Management</a>
+
 
 
 # 10 | BigData and PySpark
