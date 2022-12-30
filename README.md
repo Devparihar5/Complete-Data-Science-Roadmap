@@ -16,7 +16,7 @@
 9. Structure‌ ‌Query‌ ‌Language‌ ‌(SQL)‌
 10. Big‌ ‌Data‌ ‌and‌ ‌PySpark‌
 11. Development‌ ‌Operations‌ ‌with‌ ‌Azure‌
-12. Projects‌ ‌and‌ ‌Git‌ 
+12. Projects‌ ‌and‌ ‌Git‌
 
 ### Technology‌ ‌Stack‌ Used During That Process
 
@@ -274,10 +274,9 @@ How to use it Visual Perception
 # 12 | Projects and Git
 
 Git - Version Control System
-
-
-####  ALL Projects List:
-<a href="https://github.com/Devparihar5/Full-Stack-Data-Science-Roadmap/blob/main/ALL%20PROJECTS%20BASED%20ON%20DATA%20SCIENCE.pdf">All Projects</a>
+<a href="https://github.com/Devparihar5/Full-Stack-Data-Science-Roadmap/blob/main/git%26github.pdf">Book For Git & Github </a>
+Projects 
+<a href="https://github.com/Devparihar5/Full-Stack-Data-Science-Roadmap/blob/main/ALL%20PROJECTS%20BASED%20ON%20DATA%20SCIENCE.pdf">All Projects List</a>
 
 
 
