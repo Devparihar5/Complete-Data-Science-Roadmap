@@ -53,6 +53,8 @@ I will prefer Python Programming Language. Python is the best for starting your 
 - Object-Oriented Programming
 - Modules and Packages
 
+<a href="https://github.com/Devparihar5/Complete-Data-Science-Roadmap/tree/main/Complete%20Python%20Basics">Python Basics with code</a>
+
 <a href="https://t.me/angelayupythonbootcamp">100 Day's of Python Course By Angela Yu(Udemy) For Free</a>
 
 # 2 | Data Structure & Algorithms
