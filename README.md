@@ -277,7 +277,8 @@ Git - Version Control System
 
 
 ####  ALL Projects List:
-https://github.com/Devparihar5/Full-Stack-Data-Science-Roadmap/blob/main/ALL%20PROJECTS%20BASED%20ON%20DATA%20SCIENCE.pdf
+<a href="https://github.com/Devparihar5/Full-Stack-Data-Science-Roadmap/blob/main/ALL%20PROJECTS%20BASED%20ON%20DATA%20SCIENCE.pdf">All Projects</a>
+
 
 
 Connect with me on these platforms:
