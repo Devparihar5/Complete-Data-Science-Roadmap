@@ -156,6 +156,9 @@ The best way to master machine learning algorithms is to work with the Scikit-Le
 - Exploratory Data Analysis
 
 
+<a href="https://www.kaggle.com/code/dev523/complete-machine-learning-hand-on">Machine Learning All Algorithms Hands-On</a>
+
+
 # 6 | Natural Language Processing
 If you are interested in working with Text, you should do some of the work an NLP Engineer do and understand the working of Language models.
 
