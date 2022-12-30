@@ -275,6 +275,9 @@ How to use it Visual Perception
 
 Git - Version Control System
 <a href="https://github.com/Devparihar5/Full-Stack-Data-Science-Roadmap/blob/main/git%26github.pdf">Book For Git & Github </a>
+
+
+
 Projects 
 <a href="https://github.com/Devparihar5/Full-Stack-Data-Science-Roadmap/blob/main/ALL%20PROJECTS%20BASED%20ON%20DATA%20SCIENCE.pdf">All Projects List</a>
 
