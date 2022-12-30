@@ -133,6 +133,10 @@ Python supports n-dimensional arrays with Numpy. For data in 2-dimensions, Panda
 - Chi-Square Test
 - Implementation of continuous and categorical data
 
+<a href="https://github.com/Devparihar5/Complete-Data-Science-Roadmap/tree/main/Statics"> Notes For Statistics </a>
+
+
+
 
 # 5 | Machine Learning
 The best way to master machine learning algorithms is to work with the Scikit-Learn framework. Scikit-Learn contains predefined algorithms and you can work with them just by generating the object of the class. These are the algorithm you must know including the types of Supervised and Unsupervised Machine Learning:
@@ -173,6 +177,13 @@ If you are interested in working with Text, you should do some of the work an NL
 - Language Modeling, Perplexity
 - Building a text classifier
 - Identifying the gender
+
+
+* Basic NLP Model & Process Notebooks
+<a href="https://www.kaggle.com/code/dev523/text-classification-eda">Text Classification EDA</a>
+<a href="https://www.kaggle.com/code/dev523/sentiment-analysis-of-movie-reviews">Sentiment Analysis On Movies Review</a>
+
+
 
 
 # 7 | Computer Vision
