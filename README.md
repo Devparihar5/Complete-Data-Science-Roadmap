@@ -179,8 +179,10 @@ If you are interested in working with Text, you should do some of the work an NL
 - Identifying the gender
 
 
-* Basic NLP Model & Process Notebooks
+> Basic NLP Model & Process Notebooks
+
 <a href="https://www.kaggle.com/code/dev523/text-classification-eda">Text Classification EDA</a>
+
 <a href="https://www.kaggle.com/code/dev523/sentiment-analysis-of-movie-reviews">Sentiment Analysis On Movies Review</a>
 
 
