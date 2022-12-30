@@ -71,6 +71,9 @@ Understand these topics
 - Searching
 - Hashing
 
+<a href="https://github.com/Devparihar5/Full-Stack-Data-Science-Roadmap/tree/main/Data%20Structure%20and%20Algorithms">DSA HANDWRITTEN NOTES</a>
+
+
 
 # 3 | Pandas Numpy Matplotlib
 Python supports n-dimensional arrays with Numpy. For data in 2-dimensions, Pandas is the best library for analysis. You can use other tools but tools have drag-and-drop features and have limitations. Pandas can be customized as per the need as we can code depending upon the real-life problem.
