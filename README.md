@@ -271,26 +271,19 @@ How to use it Visual Perception
 - Non-relational Database in Azure
 
 
-# 12 | Five Major Projects and Git
+# 12 | Projects and Git
 
 Git - Version Control System
 
-We follow project-based learning and we will work on all the projects in parallel.
 
+####  ALL Projects List:
+https://github.com/Devparihar5/Full-Stack-Data-Science-Roadmap/blob/main/ALL%20PROJECTS%20BASED%20ON%20DATA%20SCIENCE.pdf
 
-
-#### Join the Data Science & ML Full Stack WhatsApp Group here:
-https://bit.ly/3qxKEFP
-
-#### Join Telegram for Data Science ML AI Resources:
-https://t.me/+sREuRiFssMo4YWJl
 
 Connect with me on these platforms:
 
-LinkedIn: https://www.linkedin.com/in/hemansnation/
+LinkedIn: https://www.linkedin.com/in/dev-parihar524/
 
-Twitter: https://twitter.com/hemansnation
+Twitter: https://twitter.com/Devendr74154261
 
-GitHub: https://github.com/hemansnation
-
-Instagram: https://www.instagram.com/masterdexter.ai/
+Kaggle(Notebook Expert Current Rank:629) : https://www.kaggle.com/dev523
