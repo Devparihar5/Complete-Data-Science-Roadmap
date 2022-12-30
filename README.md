@@ -299,6 +299,9 @@ How to use it Visual Perception
 - Relational Database in Azure
 - Non-relational Database in Azure
 
+<a href="https://www.youtube.com/playlist?list=PLe9UEU4oeAuXMUWqhhJQrGVWzUWY6pS9j">YouTube Playlist for Azure ML Studio</a>
+
+
 
 # 12 | Projects and Git
 
