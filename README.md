@@ -230,6 +230,8 @@ How to use it Visual Perception
 - Advanced Charts, Calculated Fields, Calculated Aggregations
 - Conditional Calculation, Parameterized Calculation
 
+<a href="https://github.com/NME-rahul/Data-handeling-and-Visualization">Concepts of Data Handling & Visualization</a>
+
 
 # 9 | Structure Query Language (SQL)
 - Setup SQL server
