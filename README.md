@@ -137,11 +137,13 @@ Python supports n-dimensional arrays with Numpy. For data in 2-dimensions, Panda
 
 <a href="https://github.com/Devparihar5/Complete-Data-Science-Roadmap/tree/main/Statics"> Notes For Statistics </a>
 
+<a href="https://www.coursera.org/specializations/mathematics-machine-learning?irclickid=2ZcTBqybkxyPRBt1lpXlVSjSUkFQ45UYZ2jNxI0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=4863057&utm_content=b2c#courses"> Learn Algebra, Calculus, Mathematical Analysis </a>
 
+<a href="https://www.coursera.org/learn/algebra-and-differential-calculus-for-data-science?irclickid=2ZcTBqybkxyPRBt1lpXlVSjSUkFQ4:UQZ2jNxI0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=4863057&utm_content=b2c#syllabus"> Algebra and Differential Calculus for Data Science </a>  
 
 
 # 5 | Machine Learning
-The best way to master machine learning algorithms is to work with the Scikit-Learn framework. Scikit-Learn contains predefined algorithms and you can work with them just by generating the object of the class. These are the algorithm you must know including the types of Supervised and Unsupervised Machine Learning:
+The best way to master machine learning algorithms is to work with the Scikit-Learn framework. Scikit-Learn contains predefined algorithms and you can work with them just by generating the object of the class. These are the algorithms you must know including the types of Supervised and Unsupervised Machine Learning:
 
 - Linear Regression
 - Logistic Regression
