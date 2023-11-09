@@ -306,17 +306,14 @@ How to use it Visual Perception
 <a href="https://www.youtube.com/playlist?list=PLe9UEU4oeAuXMUWqhhJQrGVWzUWY6pS9j">YouTube Playlist for Azure ML Studio</a>
 
 
-
 # 12 | Projects and Git
 
 Git - Version Control System
 <a href="https://github.com/Devparihar5/Full-Stack-Data-Science-Roadmap/blob/main/git%26github.pdf">Book For Git & Github </a>
 
 
-
 Projects 
 <a href="https://github.com/Devparihar5/Full-Stack-Data-Science-Roadmap/blob/main/ALL%20PROJECTS%20BASED%20ON%20DATA%20SCIENCE.pdf">All Projects List</a>
-
 
 
 Connect with me on these platforms:
@@ -325,4 +322,4 @@ LinkedIn: https://www.linkedin.com/in/dev-parihar524/
 
 Twitter: https://twitter.com/Devendr74154261
 
-Kaggle(Notebook Expert Current Rank:629) : https://www.kaggle.com/dev523
+Kaggle(Notebook Expert Rank:346|308,965) : https://www.kaggle.com/dev523
