@@ -135,7 +135,7 @@ Python supports n-dimensional arrays with Numpy. For data in 2-dimensions, Panda
 - Chi-Square Test
 - Implementation of continuous and categorical data
 
-<a href="https://github.com/Devparihar5/Complete-Data-Science-Roadmap/tree/main/Statics"> Notes For Statistics </a>
+<a href="https://github.com/Devparihar5/Complete-Data-Science-Roadmap/tree/main/Statics">Notes For Statistics </a>
 
 <a href="https://www.coursera.org/specializations/mathematics-machine-learning?irclickid=2ZcTBqybkxyPRBt1lpXlVSjSUkFQ45UYZ2jNxI0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=4863057&utm_content=b2c#courses"> Learn Algebra, Calculus, Mathematical Analysis </a>
 
